@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	{% include html-head.html %}
+</head>
+<body>
+	{% include header.html %}
+	
+	<div>
+		<h2><a href="http://{{page.page}}">{{page.title}}</a></h2><br>
+		
+		{{content}}
+		
+		<br><a class="mdi mdi-keyboard-backspace" href="/"> Volver</a>
+	</div>
+</body>
+</html>
