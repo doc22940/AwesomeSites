@@ -9,7 +9,7 @@
 		{% for post in site.posts %}
 		<article>
 			<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-			<a href="/categorias/{{ post.category }}">{{ post.category }}</a>
+			<a href="{{ site.github.url }}/categorias/{{ post.category }}">{{ post.category }}</a>
 			<i class="mdi mdi-{{ post.status }}"></i>
 		</article>
 		{% endfor %}
