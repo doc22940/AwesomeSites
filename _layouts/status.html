@@ -7,7 +7,7 @@
 	{% include header.html %}
 	<main>
 		{% for post in site.posts %}
-			{% if post.category contains page.category %}
+			{% if post.status contains page.category %}
 			<article>
 				<h3><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></h3>
 				<a href="{{ site.github.url }}/categorias/{{ post.category }}">{{ post.category }}</a>
