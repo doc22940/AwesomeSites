@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+{% include html-head.html %}
+</head>
+<body>
+	{% include header.html %}
+	<main>
+		{% for post in site.posts %}
+			{% if post.status contains page.category %}
+			<article>
+				<h3><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></h3>
+				<a href="{{ site.github.url }}/categorias/{{ post.category }}">{{ post.category }}</a>
+				<i class="mdi mdi-{{ post.status }}"></i>
+			</article>
+			{% endif %}
+		{% endfor %}
+	</main>
+</body>
+</html>
