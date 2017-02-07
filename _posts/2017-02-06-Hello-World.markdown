@@ -3,7 +3,7 @@ layout: post
 title:  "Hackr.io"
 date:   2017-02-06 15:27:02 +0100
 
-status: clock-alert
+status: check
 category: Programacion
 page: hackr.io
 ---
