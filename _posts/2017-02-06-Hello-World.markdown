@@ -1,17 +1,23 @@
 ---
 layout: post
-title:  "Hello world"
+title:  "Hackr.io"
 date:   2017-02-06 15:27:02 +0100
 
 status: clock-alert
 category: Programacion
-page: helloworld.com
+page: hackr.io
 ---
 
-### Uso
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores modi odio dignissimos expedita laborum, ullam tempore aliquid dolorum perferendis quisquam nam suscipit unde distinctio voluptates dolores quasi delectus sunt debitis.
+### De que trata la web?
+Es una web con cursos sobre programación, la mayoría en inglés.
 
 <br><br>
 
-### Opinion
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae amet ut voluptatem officia! Eius, fugit quo maiores, tenetur qui a! Magnam eaque iure, quis voluptate ullam suscipit dolore sint commodi.
+### Opinión
+He navegado un rato por la web y a pesar de que acaba de salir ya tiene mucho contenido de muchos lenguajes de programación.
+
+<br><br>
+
+### Por qué?
+Me sorprende la variedad de lenguajes que llega a tener. (Ionic, OpenGL, R)
+Y a pesar de que este en ingles me gusta la estética y comunidad :P
