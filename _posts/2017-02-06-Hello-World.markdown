@@ -9,15 +9,15 @@ page: hackr.io
 ---
 
 ### De que trata la web?
-Es una web con cursos sobre programación, la mayoría en inglés.
+Es una web con cursos sobre programacion, la mayoria en ingles.
 
 <br><br>
 
-### Opinión
-He navegado un rato por la web y a pesar de que acaba de salir ya tiene mucho contenido de muchos lenguajes de programación.
+### Opinion
+He navegado un rato por la web y a pesar de que acaba de salir ya tiene mucho contenido de muchos lenguajes de programacion.
 
 <br><br>
 
-### Por qué?
+### Por que?
 Me sorprende la variedad de lenguajes que llega a tener. (Ionic, OpenGL, R)
-Y a pesar de que este en ingles me gusta la estética y comunidad :P
+Y a pesar de que este en ingles me gusta la estetica y comunidad :P

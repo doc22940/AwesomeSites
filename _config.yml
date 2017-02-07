@@ -34,3 +34,4 @@ exclude:
 
 #Mis configuraciones
 permalink: /article/:title
+encoding: utf-8
