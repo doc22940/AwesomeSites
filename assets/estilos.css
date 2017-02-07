@@ -57,6 +57,11 @@ nav>div{
 
 nav>div>a{
 	color: #f5f5f5;
+	transition: color 400ms ease-out;
+}
+
+nav>div>a:hover{
+	color: #5C6BC0;
 }
 
 header>div>p:last-child{
@@ -66,6 +71,11 @@ header>div>p:last-child{
 header>div>p>a{
     color: inherit;
     max-height: 24px;
+	transition: color 300ms ease-out;
+}
+
+header>div>p>a:hover{
+	color: #1A237E;
 }
 
 h1, h1>a{
@@ -83,12 +93,18 @@ main, body>div{
 
 main>article{
 	background-color: #fafafa;
-	padding: 0.5em;
+	padding: 0.85em;
 	border-radius: 1px;
 	margin-bottom: 1em;
 	
 	display: flex;
 	justify-content: space-between;
+	
+	transition: box-shadow 400ms ease-out;
+}
+
+main>article:hover{
+	box-shadow: 0px 0px 10px rgba(0,0,0,.2)
 }
 
 article>h3>a{
