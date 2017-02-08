@@ -1,5 +1,5 @@
 # AwesomeSites
-A small web that i use as a list of other amazing webs <br>
+Sitio web que recopila enlaces de otras webs creativas y utiles. <br>
 [Demo del proyecto](https://monkeyandres.github.io/AwesomeSites/)
 
 ##Como funciones Jekyll
