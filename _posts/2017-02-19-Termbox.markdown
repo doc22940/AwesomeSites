@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Termbox"
+date:   2017-02-19
+
+status: check
+category: Utilidad
+page: termbox.io
+---
+
+
+De que trata la web?
+
+Una web que permite crear máquinas virtuales de linux desechables en minutos
+
+<br><br>
+
+Opinion
+
+Es divertida para testear cosas y proyectos.
+
+<br><br>
+
+Por que?
+
+Es open source y se puede estudiar su arquitectura
